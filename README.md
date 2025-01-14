@@ -10,6 +10,8 @@
 
 ### Тест readme
 
+<font color="#gray">Текст</font>
+
 ```python
 print("Привет, мир!") #Привет, мир!
 ```
