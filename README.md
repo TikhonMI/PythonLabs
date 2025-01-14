@@ -1,12 +1,12 @@
-<h1 align="center" color="red">Тест readme </h1>
+<h1 align="center">Тест readme </h1>
 
-<h2 align="center" color="#fa8e47">Тест readme </h2>
+<h2 id="title1" align="center">Тест readme </h2>
 
-<h3 align="center" color="#fa8e47">Тест readme </h3>
+<h3 align="center">Тест readme </h3>
 
 # Тест readme
 
-## Тест readme
+## <p id="title2">Тест readme</p>
 
 ### Тест readme
 
@@ -67,6 +67,7 @@ ___жирный курсив___
 1. Пункт первый
 
 	1.1 Подпункт первый
+	
 	1.2 Подпункт второй
 	
 2. Пункт второй
@@ -79,3 +80,9 @@ ___жирный курсив___
 	> Первый уровень цитирования
 	>> Второй уровень цитирования
 	>>> Третий уровень цитирования
+	
+[Перейти к Заголовку 1](#title1)
+
+[Перейти к Заголовку 2](#title2)
+
+[Перейти к Заголовку 3](#title3)
