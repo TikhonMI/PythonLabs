@@ -1,4 +1,4 @@
-<h1 align="center">$\color{#3776AB}{\textsf{Синтаксис Python}}$</h1>
+# $\color{#3776AB}{\textsf{Синтаксис Python}}$
 
 
 > Основная часть программы
