@@ -4,13 +4,15 @@
 
 <h3 align="center">Тест readme </h3>
 
-# <font color="#gray">Тест readme</font>
+# Тест readme
 
 ## <p id="title2">Тест readme</p>
 
 ### Тест readme
 
-# $\color{#ff3d6a}{\textsf{Text Color 3}}$
+# $\color{#ff3d6a}{\textsf{Заголовок цвет}}$
+
+<h2 align="center">$\color{#ff3d6a}{\textsf{Заголовок цвет}}$</h2>
 
 ```python
 print("Привет, мир!") #Привет, мир!
