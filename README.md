@@ -14,6 +14,20 @@
 
 <h2 align="center">$\color{#ff3d6a}{\textsf{Заголовок цвет}}$</h2>
 
+$\color{brown}{\textsf{Text Color 1}}$
+
+$\textcolor{red}{\textsf{Text Color 2}}$
+
+$\color{#ff3d6a}{\textsf{Text Color 3}}$
+
+$\color{rgb(255,132,61)}{\textsf{Text Color 4}}$
+
+$\color{rgba(255,236,61, 0.6)}{\textsf{Text Color 5}}$
+
+$\color{hsl(86,100%,62%)}{\textsf{Text Color 6}}$
+
+$\color{hsla(189,100%,62%, 0.4)}{\textsf{Text Color 7}}$
+
 ```python
 print("Привет, мир!") #Привет, мир!
 ```
@@ -23,6 +37,8 @@ print("Привет, мир!") #Привет, мир!
 <hr />
 
 [Как оформлять md файл](https://gist.github.com/Jekins/2bf2d0638163f1294637#file-markdown-docs-md)
+
+[𝗠𝗔𝗥𝗞𝗗𝗢𝗪𝗡 𝗚𝗨𝗜𝗗𝗘 pro](https://github.com/andrew-manzyk/markdown-guide/tree/master?tab=readme-ov-file)
 
 <table>
     <tr>
