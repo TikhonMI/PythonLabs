@@ -1,4 +1,4 @@
-<h1 align="center">Тест readme </h1>
+<h1 align="center"><font color="#gray">Тест readme</font></h1>
 
 <h2 id="title1" align="center">Тест readme </h2>
 
