@@ -10,7 +10,7 @@
 
 ### Тест readme
 
-$\color{#ff3d6a}{\textsf{Text Color 3}}$
+# $\color{#ff3d6a}{\textsf{Text Color 3}}$
 
 ```python
 print("Привет, мир!") #Привет, мир!
